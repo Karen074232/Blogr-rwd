@@ -64,6 +64,13 @@ body{
 .menu-authentication .item-3 {
     display: none;
 }
+.btn {
+    border: 1px solid yellow;
+    padding: .6rem 1.2rem;
+    border-radius: 1.5rem;
+    box-sizing: border-box;
+    text-decoration: none;
+}
 
 
 /** Main */
